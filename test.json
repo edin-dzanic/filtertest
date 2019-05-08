@@ -1,0 +1,451 @@
+[
+    {
+        "type": "Data",
+        "franchise": "My Clients",
+        "period": "Week",
+        "basis": "DV01 (k)",
+        "channel": "Electronic & Voice",
+        "title": "Total Inquiries by Month",
+        "groupBy": [
+            "Month"
+        ],
+        "dataRecords": [
+            {
+                "group": "October 2018",
+                "current": "",
+                "previous": "",
+                "chartBarsHeight": [
+                    16,
+                    14,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "change": ""
+            },
+            {
+                "group": "November 2018",
+                "current": "",
+                "previous": "",
+                "chartBarsHeight": [
+                    0,
+                    0,
+                    9,
+                    14,
+                    13,
+                    16,
+                    12,
+                    0,
+                    0,
+                    0
+                ],
+                "change": ""
+            },
+            {
+                "group": "December 2018",
+                "current": "13,450",
+                "previous": "13,440",
+                "chartBarsHeight": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    3,
+                    16,
+                    16,
+                    16
+                ],
+                "change": "0"
+            }
+        ]
+    },
+    {
+        "type": "Data",
+        "franchise": "My Clients",
+        "period": "Month",
+        "basis": "DV01 (k)",
+        "channel": "Electronic & Voice",
+        "title": "Total Inquiries by Quarter",
+        "groupBy": [
+            "Quarter"
+        ],
+        "dataRecords": [
+            {
+                "group": "Q1 2018",
+                "current": "",
+                "previous": "",
+                "chartBarsHeight": [
+                    0,
+                    16,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "change": ""
+            },
+            {
+                "group": "Q2 2018",
+                "current": "",
+                "previous": "",
+                "chartBarsHeight": [
+                    0,
+                    8,
+                    14,
+                    16,
+                    5,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "change": ""
+            },
+            {
+                "group": "Q3 2018",
+                "current": "",
+                "previous": "",
+                "chartBarsHeight": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    10,
+                    13,
+                    16,
+                    4,
+                    0,
+                    0
+                ],
+                "change": ""
+            },
+            {
+                "group": "Q4 2018",
+                "current": "59,853",
+                "previous": "57,637",
+                "chartBarsHeight": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    12,
+                    14,
+                    16
+                ],
+                "change": "4"
+            }
+        ]
+    },
+    
+    {
+        "type": "Data",
+        "franchise": "My Clients",
+        "period": "Week",
+        "basis": "DV01 (k)",
+        "channel": "Electronic & Voice",
+        "title": "Total Inquiries by Week",
+        "groupBy": [
+            "Week"
+        ],
+        "dataRecords": [
+            {
+                "group": "15 Oct 2018 - 21 Oct 2018",
+                "current": "",
+                "previous": "",
+                "chartBarsHeight": [
+                    16,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "change": ""
+            },
+            {
+                "group": "22 Oct 2018 - 28 Oct 2018",
+                "current": "",
+                "previous": "",
+                "chartBarsHeight": [
+                    0,
+                    16,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "change": ""
+            },
+            {
+                "group": "29 Oct 2018 - 04 Nov 2018",
+                "current": "",
+                "previous": "",
+                "chartBarsHeight": [
+                    0,
+                    0,
+                    16,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "change": ""
+            },
+            {
+                "group": "05 Nov 2018 - 11 Nov 2018",
+                "current": "",
+                "previous": "",
+                "chartBarsHeight": [
+                    0,
+                    0,
+                    0,
+                    16,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "change": ""
+            },
+            {
+                "group": "12 Nov 2018 - 18 Nov 2018",
+                "current": "",
+                "previous": "",
+                "chartBarsHeight": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    16,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "change": ""
+            },
+            {
+                "group": "19 Nov 2018 - 25 Nov 2018",
+                "current": "",
+                "previous": "",
+                "chartBarsHeight": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    16,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "change": ""
+            },
+            {
+                "group": "26 Nov 2018 - 02 Dec 2018",
+                "current": "",
+                "previous": "",
+                "chartBarsHeight": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    16,
+                    0,
+                    0,
+                    0
+                ],
+                "change": ""
+            },
+            {
+                "group": "03 Dec 2018 - 09 Dec 2018",
+                "current": "",
+                "previous": "",
+                "chartBarsHeight": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    16,
+                    0,
+                    0
+                ],
+                "change": ""
+            },
+            {
+                "group": "10 Dec 2018 - 16 Dec 2018",
+                "current": "",
+                "previous": "13,440",
+                "chartBarsHeight": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    16,
+                    0
+                ],
+                "change": ""
+            },
+            {
+                "group": "17 Dec 2018 - 23 Dec 2018",
+                "current": "13,450",
+                "previous": "",
+                "chartBarsHeight": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    16
+                ],
+                "change": ""
+            }
+        ]
+    },
+    {
+        "type": "Data",
+        "franchise": "My Clients",
+        "period": "Week",
+        "basis": "DV01 (k)",
+        "channel": "Electronic & Voice",
+        "title": "Total Inquiries by Day of Week",
+        "groupBy": [
+          "Day of Week"
+        ],
+        "dataRecords": [
+          {
+            "group": "Monday",
+            "current": "3,260",
+            "previous": "2,228",
+            "chartBarsHeight": [
+              16,
+              14,
+              7,
+              13,
+              11,
+              13,
+              8,
+              10,
+              9,
+              13
+            ],
+            "change": "46"
+          },
+          {
+            "group": "Tuesday",
+            "current": "2,643",
+            "previous": "2,430",
+            "chartBarsHeight": [
+              10,
+              12,
+              11,
+              13,
+              12,
+              16,
+              16,
+              12,
+              11,
+              12
+            ],
+            "change": "9"
+          },
+          {
+            "group": "Wednesday",
+            "current": "2,774",
+            "previous": "3,798",
+            "chartBarsHeight": [
+              12,
+              11,
+              12,
+              9,
+              9,
+              9,
+              12,
+              10,
+              16,
+              11
+            ],
+            "change": "-27"
+          },
+          {
+            "group": "Thursday",
+            "current": "2,274",
+            "previous": "2,127",
+            "chartBarsHeight": [
+              16,
+              11,
+              11,
+              9,
+              7,
+              8,
+              13,
+              12,
+              8,
+              9
+            ],
+            "change": "7"
+          },
+          {
+            "group": "Friday",
+            "current": "2,499",
+            "previous": "2,857",
+            "chartBarsHeight": [
+              16,
+              14,
+              11,
+              9,
+              13,
+              14,
+              11,
+              13,
+              12,
+              10
+            ],
+            "change": "-13"
+          }
+        ]
+      }
+]
